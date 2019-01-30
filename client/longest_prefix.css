@@ -1,0 +1,16 @@
+div#info {
+    font-size: 20pt;
+    margin: 5px;
+}
+
+div#inputs {
+    margin: 5px;
+}
+
+input#fetch {
+    width: 150px;
+}
+
+input#go {
+    width: 150px;
+}
